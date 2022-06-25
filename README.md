@@ -7,7 +7,7 @@
 世界はひらめくアイディアと美的な楽しさ、そして知的な遊戯でいっぱいです。私はこれらをプログラミングを通じて合わせて行きたいです。
 - 🌱 I’m always curious and ready to hop into new interesting ones！</br>
 私は好奇心が旺盛ですし、いつも新しいことにハマる準備ができています！
-- ⚡ Fun fact: I speak Korean, English and japanese.</br>
+- ⚡ Fun fact: I speak Korean, English and Japanese.</br>
 面白い事実 : 私は韓国語と英語、そして日本語ができます。
 - 📫 How to reach me: yyh10200@gmail.com
 
