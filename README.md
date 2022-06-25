@@ -3,7 +3,7 @@
 
 ## Hello, World! 👋
 
-- 🔭 The world is full of sparkling ideas, aesthetic pleasure and intellectual pleasure. I want to put them together with programming.</br>
+- 🔭 The world is full of sparkling ideas, aesthetic pleasure, and intellectual play. I want to put them together with programming.</br>
 世界はひらめくアイディアと美的な楽しさ、そして知的な遊戯でいっぱいです。私はこれらをプログラミングを通じて合わせて行きたいです。
 - 🌱 I’m always curious and ready to hop into new interesting ones！</br>
 私は好奇心が旺盛ですし、いつも新しいことにハマる準備ができています！
